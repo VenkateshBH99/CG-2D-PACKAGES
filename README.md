@@ -1,9 +1,9 @@
 # CG-2D-PACKAGES
 
-#FOR mac: #include<GLUT/GLUT.h>
+FOR mac: #include<GLUT/GLUT.h>
 
-#FOR windows: 
+FOR windows: 
 
-#include <windows.h>
+include <windows.h>
 
-#include <GL/glut.h>
+include <GL/glut.h>
